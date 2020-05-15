@@ -23,10 +23,7 @@ namespace printer2
             }
             else if (nomerPrinter == 2)
             {
-
-
                 printkan = new Canon();
-
             }
             else if (nomerPrinter == 3)
             {
